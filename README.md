@@ -1,6 +1,6 @@
 # 📝 FastAPI Task Manager
 
-A simple **Task Management API** built with [FastAPI](https://fastapi.tiangolo.com/), [SQLAlchemy](https://www.sqlalchemy.org/), and [JWT Authentication](https://jwt.io/).  
+A production ready **Task Management API** built with [FastAPI](https://fastapi.tiangolo.com/), [SQLAlchemy](https://www.sqlalchemy.org/), and [JWT Authentication](https://jwt.io/).  
 It supports **user registration**, **login**, **CRUD operations** for tasks, and **admin-only endpoints** for managing users and tasks.
 
 ---
